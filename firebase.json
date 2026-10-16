@@ -1,0 +1,13 @@
+{
+  "hosting": {
+    "site": "website-portfolio-evolution",
+    "public": ".",
+    "ignore": [
+      "firebase.json",
+      ".firebaserc",
+      "README.md",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
